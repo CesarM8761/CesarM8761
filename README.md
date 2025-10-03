@@ -20,12 +20,48 @@ Soy un apasionado desarrollador de software, actualmente cursando Ingeniería de
 
 ## 💻 Stack tecnológico
 
+Lenguajes de Programación
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,kotlin,php,python,mysql,postgres,git&perline=5" />
+    <img src="https://skillicons.dev/icons?i=cs,kotlin,php,python,js,go&perline=6" />
   </a>
 </p>
-
+Frameworks y Librerías
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,react,angular,nodejs,laravel,bootstrap&perline=6" />
+  </a>
+</p>
+Bases de Datos
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=6" />
+  </a>
+</p>
+Herramientas y Plataformas
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,azure,npm,postman&perline=6" />
+  </a>
+</p>
+Diseño y Desarrollo
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,figma,unity,electron,wordpress&perline=6" />
+  </a>
+</p>
+Sistemas Operativos y Entornos
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows,kali,redhat&perline=6" />
+  </a>
+</p>
+Editores y Terminales
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,bash,powershell,notion&perline=6" />
+  </a>
+</p>
 ---
 
 <p align="center">
