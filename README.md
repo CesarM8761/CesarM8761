@@ -1,4 +1,4 @@
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 👋 Hola, soy Cesar Mauricio Martinez Navarro
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 👋 Hola, soy Cesar Mauricio Martinez Navarro
 
 **Desarrollador de software con experiencia en backend .NET, desarrollo full stack y administración de sistemas**
 
@@ -27,12 +27,14 @@ Soy un apasionado desarrollador de software, actualmente cursando Ingeniería de
 </p>
 
 ---
+
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CesarM8761&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CesarM8761&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
 ---
 
 ## 📜 Certificados
