@@ -1,4 +1,4 @@
-<div style="background: #0b1220; color: #e6eef8; font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; padding: 24px;">
+
   <div style="max-width: 900px; margin: 0 auto; background: linear-gradient(180deg, rgba(255,255,255,0.02), transparent); border-radius: 10px; padding: 28px; box-shadow: 0 6px 24px rgba(2,6,23,0.6);">
     
     <div style="display: flex; gap: 18px; align-items: center; flex-wrap: wrap;">
@@ -71,4 +71,3 @@
       
     </div>
   </div>
-</div>
